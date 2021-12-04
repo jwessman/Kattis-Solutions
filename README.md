@@ -13,6 +13,7 @@ Solutions to problems from the Kattis Problem Archive
 | [Hello World!][17] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][18] |
 | [Homework][19] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][20] |
 | [Jack-O'-Lantern Juxtaposition][21] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][22] |
+| [Jumbo Javelin][35] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][36] |
 | [Odd Echo][23] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][24] |
 | [Quality-Adjusted Life-Year][25] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][26] |
 | [Saving Daylight][27] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][28] |
@@ -54,3 +55,5 @@ Solutions to problems from the Kattis Problem Archive
 [32]: https://open.kattis.com/problems/theplank
 [33]: https://github.com/jwessman/Kattis-Solutions/tree/main/triangle-area
 [34]: https://open.kattis.com/problems/triarea
+[35]: https://github.com/jwessman/Kattis-Solutions/tree/main/jumbo-javelin
+[36]: https://open.kattis.com/problems/jumbojavelin

@@ -1,25 +1,25 @@
 # Kattis-Solutions
 Solutions to problems from the Kattis Problem Archive
-| Problem | :link: |
-| --------| ---- |
-| [3D Printed Statues][1] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][2] |
-| [A Different Problem][3] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][4] |
-| [Above Average][5] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][6] |
-| [Add 'Em Up!][7] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][8] |
-| [Adding Words][9] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][10] |
-| [Akcija][11] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][12] |
-| [Digit Swap][13] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][14] |
-| [Electrical Outlets][15] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][16] |
-| [Hello World!][17] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][18] |
-| [Homework][19] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][20] |
-| [Jack-O'-Lantern Juxtaposition][21] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][22] |
-| [Jumbo Javelin][35] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][36] |
-| [Odd Echo][23] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][24] |
-| [Quality-Adjusted Life-Year][25] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][26] |
-| [Saving Daylight][27] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][28] |
-| [Tarifa][29] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][30] |
-| [The Plank][31] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][32] |
-| [Triangle Area][33] | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][34] |
+| Problem | Difficulty | :link: |
+| --------| ---------- | ---- |
+| [3D Printed Statues][1] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][2] |
+| [A Different Problem][3] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][4] |
+| [Above Average][5] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][6] |
+| [Add 'Em Up!][7] | Hard | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][8] |
+| [Adding Words][9] | Medium | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][10] |
+| [Akcija][11] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][12] |
+| [Digit Swap][13] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][14] |
+| [Electrical Outlets][15] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][16] |
+| [Hello World!][17] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][18] |
+| [Homework][19] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][20] |
+| [Jack-O'-Lantern Juxtaposition][21] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][22] |
+| [Jumbo Javelin][35] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][36] |
+| [Odd Echo][23] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][24] |
+| [Quality-Adjusted Life-Year][25] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][26] |
+| [Saving Daylight][27] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][28] |
+| [Tarifa][29] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][30] |
+| [The Plank][31] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][32] |
+| [Triangle Area][33] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][34] |
 
 [1]: https://github.com/jwessman/Kattis-Solutions/tree/main/3d-printed-statues
 [2]: https://open.kattis.com/problems/3dprinter

@@ -11,6 +11,7 @@ Solutions to problems from the Kattis Problem Archive
 | [Digit Swap][13] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][14] |
 | [Electrical Outlets][15] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][16] |
 | [Hello World!][17] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][18] |
+| [High Score][37] | Hard | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][38] |
 | [Homework][19] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][20] |
 | [Jack-O'-Lantern Juxtaposition][21] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][22] |
 | [Jumbo Javelin][35] | Trivial | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][36] |
@@ -57,3 +58,5 @@ Solutions to problems from the Kattis Problem Archive
 [34]: https://open.kattis.com/problems/triarea
 [35]: https://github.com/jwessman/Kattis-Solutions/tree/main/jumbo-javelin
 [36]: https://open.kattis.com/problems/jumbojavelin
+[37]: https://github.com/jwessman/Kattis-Solutions/tree/main/high-score
+[38]: https://open.kattis.com/problems/highscore

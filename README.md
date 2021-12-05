@@ -4,6 +4,7 @@ Solutions to problems from the Kattis Problem Archive
 | --------| ---------- | ---- |
 | [3D Printed Statues][1] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][2] |
 | [A Different Problem][3] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][4] |
+| [A List Game][39] | Medium | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][40] |
 | [Above Average][5] | Easy | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][6] |
 | [Add 'Em Up!][7] | Hard | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][8] |
 | [Adding Words][9] | Medium | [![alt text](https://camo.githubusercontent.com/fa841214afc9d9d12983c143cbcc8fc2b904d9ceb6c1f5c705cab3a27400e7a5/68747470733a2f2f6f70656e2e6b61747469732e636f6d2f66617669636f6e)][10] |
@@ -60,3 +61,5 @@ Solutions to problems from the Kattis Problem Archive
 [36]: https://open.kattis.com/problems/jumbojavelin
 [37]: https://github.com/jwessman/Kattis-Solutions/tree/main/high-score
 [38]: https://open.kattis.com/problems/highscore
+[39]: https://github.com/jwessman/Kattis-Solutions/tree/main/a-list-game
+[40]: https://open.kattis.com/problems/listgame
